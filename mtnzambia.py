@@ -8,10 +8,10 @@ from email.mime.text import MIMEText
 
 # DB connection config
 DB_CONFIG = {
-    "host": "172.28.30.36",
+    "host": "",
     "database": "db_lending_service",
-    "user": "atamabut",
-    "password": "kw76SNRy4x",
+    "user": "",
+    "password": "",
     "port": 37822
 }
 
